@@ -4,3 +4,6 @@
 Meercat
 
 2. Favorite city?
+
+3. Favorite color?
+Orange
